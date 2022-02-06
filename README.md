@@ -1,5 +1,6 @@
 # 2 Serverless function in YC with trigger
 0.0 Get Yc.OAuth token. It is necessary to manage YC resources from CLI. We will use Terrarform to create new S3 bucket
+
 https://cloud.yandex.ru/docs/iam/concepts/authorization/oauth-token
 
 0.1 Create service account for terrafrom role(name below will be service-account-for-cf)
